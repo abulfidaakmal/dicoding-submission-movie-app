@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Movie</string>
+
+    <string name="owner_profile">https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos-fe5e9e4e33a05f2c2c1b2d7981e3e65720240917104344.png</string>
+    <string name="owner_name">Abulfida Akmal</string>
+    <string name="owner_title"><![CDATA[Web & Backend Developer]]></string>
+    <string name="owner_email">abulfidaakmal@gmail.com</string>
+    <string name="owner_github">https://github.com/abulfidaakmal</string>
+
+    <string-array name="data_title">
+        <item>Big City Greens</item>
+        <item>Kung Fu Panda 4</item>
+        <item>Miles from Tomorrowland</item>
+        <item>The Tom and Jerry Show</item>
+        <item>New Looney Tunes</item>
+        <item>Puppy Dog Pals</item>
+        <item>Regular Show</item>
+        <item>Spider-Man</item>
+        <item>Teen Titans Go!</item>
+        <item>The Garfield Movie</item>
+        <item>The Loud House</item>
+    </string-array>
+
+    <string-array name="data_url">
+        <item>https://www.themoviedb.org/tv/80587-big-city-greens?language=id-ID</item>
+        <item>https://www.themoviedb.org/movie/1011985-kung-fu-panda-4?language=id-ID</item>
+        <item>https://www.themoviedb.org/tv/62181-miles-from-tomorrowland?language=id-ID</item>
+        <item>https://www.themoviedb.org/tv/47480-the-tom-and-jerry-show?language=id-ID</item>
+        <item>https://www.themoviedb.org/tv/65763-new-looney-tunes?language=id-ID</item>
+        <item>https://www.themoviedb.org/tv/72089-puppy-dog-pals?language=id-ID</item>
+        <item>https://www.themoviedb.org/tv/31132-regular-show?language=id-ID</item>
+        <item>https://www.themoviedb.org/movie/557-spider-man?language=id-ID</item>
+        <item>https://www.themoviedb.org/tv/45140-teen-titans-go?language=id-ID</item>
+        <item>https://www.themoviedb.org/movie/748783-the-garfield-movie?language=id-ID</item>
+        <item>https://www.themoviedb.org/tv/68073-the-loud-house?language=id-ID</item>
+    </string-array>
+
+    <string-array name="data_overview">
+        <item>Mengikuti petualangan Green Family yang baru pindah ke kota besar, "Big City Greens" adalah sebuah serial animasi yang penuh dengan humor dan situasi konyol, menggambarkan bagaimana keluarga yang sederhana menghadapi kehidupan urban.</item>
+        <item>Di instalasi keempat dari franchise populer ini, Po kembali sebagai Dragon Warrior untuk menghadapi musuh baru dan melindungi dunia dari ancaman yang semakin besar. Aksi laga yang menegangkan dan humor yang menghibur adalah ciri khas film ini.</item>
+        <item>"Miles from Tomorrowland" mengikuti petualangan Miles Callisto, seorang anak kecil yang berkeliling ruang angkasa bersama keluarganya. Serial ini menggabungkan elemen ilmiah dengan cerita yang penuh aksi dan imajinasi.</item>
+        <item>Menghadirkan kembali pertempuran klasik antara Tom si kucing dan Jerry si tikus, "The Tom and Jerry Show" adalah serial animasi yang menawarkan komedi slapstick yang tidak lekang oleh waktu dengan aksi lucu dan dinamis.</item>
+        <item>Menghadirkan karakter klasik Looney Tunes dalam petualangan baru, serial ini mempertahankan humor slapstick yang ikonik sambil memperkenalkan situasi dan karakter baru yang menghibur.</item>
+        <item>Serial animasi ini mengikuti dua anjing kecil, Bingo dan Rolly, dalam berbagai petualangan seru di lingkungan sekitar mereka. Cerita yang ceria dan karakter yang penuh energi menjadikannya pilihan yang menyenangkan untuk anak-anak.</item>
+        <item>"Regular Show" mengikuti kehidupan sehari-hari Mordecai dan Rigby, dua pekerja taman yang sering terjebak dalam situasi fantastis dan surreal. Serial ini terkenal dengan humornya yang absurd dan kreatif.</item>
+        <item>Menghadapi berbagai penjahat di kota New York, "Spider-Man" adalah kisah tentang Peter Parker, seorang remaja dengan kekuatan laba-laba, yang berjuang melawan kejahatan sambil menjalani kehidupan sebagai siswa dan remaja.</item>
+        <item>Serial ini menghadirkan Teen Titans dalam bentuk yang lebih komedik dan ceria, dengan aksi konyol dan situasi absurd yang menggambarkan keseharian para pahlawan muda ini.</item>
+        <item>Mengisahkan kehidupan sehari-hari Garfield, kucing gemuk yang malas dan suka makan lasagna, film ini menggabungkan humor dengan petualangan ringan dalam cerita yang menghibur.</item>
+        <item>"The Loud House" mengikuti kehidupan keluarga Loud yang terdiri dari 11 saudara kandung. Serial ini menggambarkan tantangan dan keceriaan kehidupan dengan banyak anak, penuh dengan situasi lucu dan drama keluarga.</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Big City Greens adalah serial televisi animasi komedi Amerika yang diproduksi oleh Disney Television Animation. Serial ini ditayangkan pertama kali pada 18 Juni 2018 di Disney Channel dan diciptakan oleh saudara Chris dan Shane Houghton. Serial ini mengikuti kehidupan Cricket Green, seorang anak bersemangat yang pindah dari daerah pedesaan ke kota besar bersama keluarganya. Mereka tinggal bersama neneknya, Alice, yang keras kepala, di sebuah rumah tua di pusat kota. Kakak perempuannya, Tilly Green, adalah sosok eksentrik yang selalu mendukung Cricket dalam setiap petualangannya. Dengan tema petualangan sehari-hari yang lucu dan pesan-pesan positif tentang keluarga, persahabatan, dan penyesuaian diri dengan lingkungan baru, Big City Greens berhasil menarik hati penonton anak-anak dan keluarga. Serial ini memadukan komedi fisik dengan dinamika keluarga yang hangat, menjadikannya populer di kalangan berbagai usia.</item>
+        <item>Kung Fu Panda 4 merupakan kelanjutan dari franchise Kung Fu Panda yang sangat sukses, diproduksi oleh DreamWorks Animation. Pertama kali diperkenalkan pada tahun 2008, Kung Fu Panda telah berkembang menjadi fenomena global dengan kisah Po, seekor panda yang awalnya canggung dan kikuk namun kemudian menjadi Dragon Warrior yang legendaris. Film keempat dalam franchise ini melanjutkan perjalanan Po saat ia menghadapi tantangan baru dalam peran barunya sebagai pemimpin, serta menghadapi ancaman baru yang mengancam kedamaian di Tiongkok. Film ini diharapkan menampilkan karakter-karakter lama seperti Shifu, Tigress, Monkey, dan anggota Furious Five lainnya, sambil memperkenalkan tokoh antagonis baru yang tangguh. Seperti film-film sebelumnya, Kung Fu Panda 4 akan menampilkan kombinasi antara humor, aksi bela diri yang luar biasa, serta pesan mendalam tentang kebijaksanaan, ketahanan, dan kekuatan batin.</item>
+        <item>Miles from Tomorrowland, dikenal juga sebagai Miles in Space di beberapa negara, adalah serial animasi edukasi yang ditayangkan di Disney Junior. Serial ini pertama kali mengudara pada 6 Februari 2015 dan berfokus pada petualangan Miles Callisto, seorang anak berusia 7 tahun yang hidup bersama keluarganya di ruang angkasa. Keluarga Callisto bekerja untuk Tomorrowland Transit Authority, yang bertugas menjelajahi galaksi dan menjaga hubungan antarplanet. Serial ini menggabungkan elemen futuristik dengan pendidikan sains, teknologi, teknik, dan matematika (STEM), serta menekankan pentingnya kolaborasi, eksplorasi, dan inovasi. Dilengkapi dengan teknologi fiksi ilmiah canggih seperti jetpack, kapal luar angkasa, dan robot bernama Merc, Miles from Tomorrowland dirancang untuk memotivasi anak-anak untuk bermimpi besar dan mengejar karir di bidang sains dan teknologi.</item>
+        <item>The Tom and Jerry Show adalah serial televisi komedi animasi yang diproduksi oleh Warner Bros. Animation dan Turner Entertainment Co., dengan animasi yang dikerjakan oleh Renegade Animation. Serial ini merupakan kebangkitan dari karakter ikonik Tom (seekor kucing) dan Jerry (seekor tikus) yang diciptakan oleh William Hanna dan Joseph Barbera pada tahun 1940-an. Serial baru ini pertama kali ditayangkan di Teletoon di Kanada pada 1 Maret 2014, dan kemudian di Cartoon Network di Amerika Serikat pada 9 April 2014.\n\nThe Tom and Jerry Show tetap setia pada akar slapstick klasik dari versi aslinya, dengan menampilkan pertarungan tak berujung antara Tom dan Jerry, di mana Jerry selalu berhasil lolos dari rencana jahat Tom. Meskipun animasinya telah diperbarui untuk tampilan modern, esensi humor fisik yang khas tanpa dialog tetap dipertahankan. Serial ini juga memperkenalkan berbagai latar baru, seperti petualangan mereka di rumah besar, laboratorium ilmuwan gila, dan pengaturan lainnya yang menambah variasi cerita.\n\nMusim keempat dari The Tom and Jerry Show dirilis pada 1 Februari 2021 di Boomerang SVOD dan aplikasi Cartoon Network, sedangkan musim kelima diikuti pada 1 dan 15 Februari 2021 di aplikasi yang sama. Musim ini memperkenalkan skenario baru, dengan lebih banyak karakter pendukung dan plot yang terus mengembangkan hubungan komedi antara Tom dan Jerry.\n\nSetelah serial ini berakhir, Tom and Jerry Special Shorts dan Tom and Jerry in New York dirilis di HBO Max pada 1 Juli 2021. Adaptasi ini menempatkan karakter klasik ke dalam situasi baru yang lebih dinamis, sambil tetap mempertahankan humor yang membuat mereka menjadi favorit lintas generasi.</item>
+        <item>New Looney Tunes, sebelumnya dikenal sebagai Wabbit, adalah serial kebangkitan dari kartun klasik Looney Tunes yang diproduksi oleh Warner Bros. Animation. Serial ini ditayangkan pertama kali pada 21 September 2015 dan membawa kembali karakter-karakter ikonik seperti Bugs Bunny, Daffy Duck, Porky Pig, dan Elmer Fudd dalam petualangan yang segar dengan gaya animasi modern. Sementara mempertahankan humor slapstick khas Looney Tunes, New Looney Tunes menampilkan pengaturan dan situasi kontemporer yang lebih relevan untuk generasi saat ini. Bugs Bunny tetap menjadi protagonis utama, dan ia sering terlibat dalam situasi lucu di mana ia harus mengakali lawan-lawannya, termasuk karakter baru yang diperkenalkan dalam serial ini. Dengan humor cepat dan karakter-karakter eksentrik, serial ini berhasil mempertahankan daya tarik Looney Tunes sambil memperkenalkan pesona baru kepada penonton modern.</item>
+        <item>Puppy Dog Pals adalah serial animasi anak-anak yang tayang perdana di Disney Junior pada 14 April 2017. Diciptakan oleh Harland Williams, serial ini berfokus pada dua anjing pug bersaudara bernama Bingo dan Rolly, yang suka berpetualang bersama untuk membantu pemiliknya, Bob, dan teman-teman hewan lainnya. Misi mereka biasanya berpusat pada tugas-tugas sehari-hari yang sederhana, namun sering kali berujung pada petualangan besar di tempat-tempat yang jauh. Dengan gaya animasi yang ceria dan pesan moral tentang kerja sama, persahabatan, dan keberanian, Puppy Dog Pals telah menjadi serial populer di kalangan anak-anak prasekolah. Setiap episode berisi dua cerita pendek yang menyampaikan pelajaran penting melalui interaksi yang menyenangkan antara karakter-karakter yang ramah.</item>
+        <item>Regular Show adalah serial animasi komedi Amerika yang diproduksi oleh Cartoon Network Studios dan diciptakan oleh J.G. Quintel. Serial ini tayang dari 6 September 2010 hingga 16 Januari 2017, dengan total delapan musim dan 261 episode. Kisahnya berfokus pada dua teman sekamar, Mordecai (seekor burung biru) dan Rigby (seekor rakun), yang bekerja di taman kota di bawah pengawasan bos mereka, Benson, sebuah mesin permen karet yang temperamental. Sering kali, usaha mereka untuk menghindari pekerjaan atau melakukan sesuatu yang bodoh akan berakhir dalam situasi yang aneh dan supranatural. Regular Show terkenal karena humornya yang absurd, campuran gaya animasi yang unik, dan referensi budaya pop yang menarik bagi penonton dewasa maupun anak-anak. Serial ini dianggap sebagai salah satu karya animasi modern yang paling berpengaruh, memenangkan berbagai penghargaan termasuk Emmy Award.</item>
+        <item>Spider-Man, juga dikenal sebagai Marvel\'s Spider-Man, adalah serial animasi yang tayang di Disney XD dan merupakan adaptasi terbaru dari karakter ikonik Marvel Comics, Peter Parker/Spider-Man. Serial ini ditayangkan pertama kali pada 19 Agustus 2017 dan menggantikan Ultimate Spider-Man sebagai serial Spider-Man resmi Marvel di televisi. Menceritakan ulang kisah asal-usul Peter Parker, serial ini mengikuti kehidupannya sebagai siswa sekolah menengah yang harus menyeimbangkan tanggung jawabnya sebagai pahlawan super dengan kehidupan pribadinya. Dengan musuh-musuh klasik seperti Green Goblin, Doctor Octopus, dan Venom, serta penampilan dari berbagai pahlawan Marvel lainnya, Spider-Man menawarkan petualangan aksi yang mendebarkan dan pesan tentang kekuatan dan tanggung jawab.</item>
+        <item>Teen Titans Go! adalah serial animasi komedi yang menampilkan versi parodi dari tim superhero remaja DC Comics, Teen Titans. Serial ini tayang pertama kali pada 23 April 2013 di Cartoon Network, dan diciptakan oleh Aaron Horvath dan Michael Jelenic. Tidak seperti versi sebelumnya yang lebih gelap dan penuh aksi, Teen Titans Go! menampilkan gaya humor slapstick dan cerita yang lebih ringan, berfokus pada kehidupan sehari-hari para anggota tim saat tidak sedang menyelamatkan dunia. Karakter utama termasuk Robin, Starfire, Cyborg, Beast Boy, dan Raven, dan mereka sering kali terlibat dalam situasi konyol yang menguji kesabaran mereka. Meski sempat dikritik karena perbedaannya dengan seri sebelumnya, Teen Titans Go! telah menjadi sangat populer di kalangan penonton muda dan telah menghasilkan film layar lebar serta berbagai spin-off.</item>
+        <item>The Garfield Movie adalah film animasi komputer yang dirilis pada tahun 2024 sebagai adaptasi modern dari karakter Garfield yang diciptakan oleh Jim Davis. Karakter Garfield, kucing gemuk yang malas namun cerdas, pertama kali muncul dalam komik strip pada tahun 1978 dan telah menjadi salah satu karakter kartun paling dikenal di dunia. Dalam film ini, Garfield dihadapkan pada petualangan baru yang melibatkan musuh lama dan teman-teman barunya, termasuk Jon Arbuckle, Odie si anjing, dan karakter-karakter lain dari semesta Garfield. Dengan humor sinis khas Garfield dan animasi modern yang memukau, The Garfield Movie mencoba menarik generasi baru penonton sembari mempertahankan penggemar lama.</item>
+        <item>The Loud House adalah serial animasi yang diciptakan oleh Chris Savino untuk Nickelodeon, yang pertama kali tayang pada 2 Mei 2016. Ceritanya mengikuti kehidupan Lincoln Loud, seorang anak laki-laki yang hidup dalam keluarga besar dengan sepuluh saudara perempuan. Serial ini dikenal karena menampilkan dinamika keluarga yang realistis, namun dengan sentuhan humor kartun yang lucu. Setiap saudara perempuan Lincoln memiliki kepribadian yang unik, dan Lincoln sering kali harus menemukan cara kreatif untuk menghadapi kekacauan sehari-hari di rumahnya. The Loud House memadukan humor dengan pesan-pesan penting tentang hubungan keluarga, komunikasi, dan kasih sayang.</item>
+    </string-array>
+
+    <string-array name="data_release">
+        <item>18 Juni 2018</item>
+        <item>6 Maret 2024</item>
+        <item>6 Februari 2015</item>
+        <item>9 April 2014</item>
+        <item>21 September 2015</item>
+        <item>14 April 2017</item>
+        <item>6 September 2010</item>
+        <item>22 Mei 2002</item>
+        <item>23 April 2013</item>
+        <item>23 Mei 2024</item>
+        <item>2 Mei 2016</item>
+    </string-array>
+
+    <string-array name="data_image">
+        <item>https://media.themoviedb.org/t/p/w220_and_h330_face/buRk2Vrz8UhF5nZUOADSRZLEU1f.jpg</item>
+        <item>https://media.themoviedb.org/t/p/w220_and_h330_face/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg</item>
+        <item>https://media.themoviedb.org/t/p/w220_and_h330_face/wEIgCiIHtmJWrwHhVLxnvugYBVn.jpg</item>
+        <item>https://media.themoviedb.org/t/p/w220_and_h330_face/41EWXLXTZO4MLb2BL28mWZuydyq.jpg</item>
+        <item>https://media.themoviedb.org/t/p/w220_and_h330_face/prMr01vuNZc42SAuaa1Kzyh9iyd.jpg</item>
+        <item>https://media.themoviedb.org/t/p/w220_and_h330_face/phUryg6hyEToBuQMgMhh0gnOdx1.jpg</item>
+        <item>https://media.themoviedb.org/t/p/w220_and_h330_face/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg</item>
+        <item>https://media.themoviedb.org/t/p/w220_and_h330_face/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg</item>
+        <item>https://media.themoviedb.org/t/p/w220_and_h330_face/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg</item>
+        <item>https://media.themoviedb.org/t/p/w220_and_h330_face/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg</item>
+        <item>https://media.themoviedb.org/t/p/w220_and_h330_face/2UJ9Txlll3umlRoNnfBzAeCHIhR.jpg</item>
+    </string-array>
+
+    <string-array name="data_image2">
+        <item>https://wallpapercave.com/dwp1x/wp4208618.jpg</item>
+        <item>https://images8.alphacoders.com/134/1344546.jpeg</item>
+        <item>https://image.tmdb.org/t/p/original/6Y9hVj4lFw8w0lsDj35ZGded7Cm.jpg</item>
+        <item>https://wallpapercave.com/wp/wp9974764.jpg</item>
+        <item>https://wallpapers.com/images/featured-full/looney-tunes-background-es2cxofzkcn3qcms.jpg</item>
+        <item>https://wallpapers.com/images/featured-full/puppy-dog-pals-h4italxz815qghqe.jpg</item>
+        <item>https://wallpapers.com/images/featured-full/regular-show-nyl4lbh23thizl2r.jpg</item>
+        <item>https://static1.cbrimages.com/wordpress/wp-content/uploads/2016/11/spider-man-2002-movie.jpg</item>
+        <item>https://wallpapercave.com/dwp1x/wp2954706.jpg</item>
+        <item>https://wallpapercave.com/dwp1x/wp13604814.jpg</item>
+        <item>https://wallpapercave.com/dwp1x/wp12696766.jpg</item>
+    </string-array>
+</resources>
